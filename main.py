@@ -1,3 +1,6 @@
+# Python Password Generator Program
+# Last Updated 06 - 10 - 2022
+
 import random
 uppercase_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lowercase_letters = uppercase_letters.lower()
